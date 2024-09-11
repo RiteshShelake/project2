@@ -1,3 +1,3 @@
    #NEW Project
 
-    This peoject is created in local window
+    This project is created in local window. 
